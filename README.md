@@ -1,4 +1,4 @@
-# School-level
+# High-School
 
 ## CISCE State Chess Championship  (2nd Place)
 ## CISCE National Chess Championship  (Participation)
