@@ -1,6 +1,7 @@
 # High-School
 
-## CISCE State Chess Championship  (2nd Place)
+## CISCE Zonal Chess Championship (1st Place)
+## CISCE Regional Chess Championship  (2nd Place)
 ## CISCE National Chess Championship  (Participation)
 
 # Hackathons 
